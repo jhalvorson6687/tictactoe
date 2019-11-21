@@ -1,6 +1,6 @@
 # tictactoe
 TicTacToe written in C++
-## How To Install
+### How To Install
 1. Clone this repository
 2. cd into the tictactoe directory
 3. Run g++ tictactoe.cpp
